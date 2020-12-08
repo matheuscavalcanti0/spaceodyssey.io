@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image:url(fase1.jpg)
+ 
+}
+canvas {
+  display: block;
+  width: center;
+  margin-left: auto;
+  margin-right: auto;
+}
